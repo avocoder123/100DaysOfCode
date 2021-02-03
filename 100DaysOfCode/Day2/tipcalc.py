@@ -17,4 +17,4 @@ billperperson = totalbillwithtip / people
 
 final = round(billperperson, 2)
 
-print(f"Each person pays: {final}")
+print("Each person pays:" + final)
